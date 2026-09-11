@@ -1,7 +1,7 @@
 # Week 2: Nmap Network Scanning Lab
 
 **Author:** Allison Abdullahi  
-**Program:** NetworkWalks Cybersecurity Internship  
+**Program:** Cybersecurity Personal Training 
 **Date:** September 2026  
 **Lab Environment:** VirtualBox NAT Network (10.0.0.0/24)
 
